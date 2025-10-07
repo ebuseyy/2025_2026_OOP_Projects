@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helloworld", "Helloworld\Helloworld.csproj", "{27868750-B10A-4A86-9DE7-4D43B95E84FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesap_Mak", "Hesap_Mak\Hesap_Mak.csproj", "{D0A372C8-B231-4FFA-B5E3-28BFF9A8E464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebExample", "WebExample\WebExample.csproj", "{D342F9AD-680E-4A20-8F4C-20CEEF96B1C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27868750-B10A-4A86-9DE7-4D43B95E84FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27868750-B10A-4A86-9DE7-4D43B95E84FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27868750-B10A-4A86-9DE7-4D43B95E84FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27868750-B10A-4A86-9DE7-4D43B95E84FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A372C8-B231-4FFA-B5E3-28BFF9A8E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A372C8-B231-4FFA-B5E3-28BFF9A8E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A372C8-B231-4FFA-B5E3-28BFF9A8E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A372C8-B231-4FFA-B5E3-28BFF9A8E464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D342F9AD-680E-4A20-8F4C-20CEEF96B1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D342F9AD-680E-4A20-8F4C-20CEEF96B1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D342F9AD-680E-4A20-8F4C-20CEEF96B1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D342F9AD-680E-4A20-8F4C-20CEEF96B1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
