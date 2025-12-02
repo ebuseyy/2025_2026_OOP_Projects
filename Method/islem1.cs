@@ -12,12 +12,14 @@ namespace Method
         public string soyadi;
         public islem1()
         {
-            sicaklik = 0; b=2;
+            int sicaklik = 0, b=2;
         }
         public int Topla(int a, int b)
         {
             return a + b;
         }
+
+
         ~islem1()
         {
             //Destructor
